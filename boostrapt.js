@@ -1,4 +1,3 @@
-<script type='text/javascript'>
 var btn = &quot;teaser4&quot;; 
 var hide = &quot;debitcar2&quot;; 
 var expire = 1; 
@@ -49,4 +48,3 @@ function readCookie(name) {
 function eraseCookie(name) {
     createCookie(name, &quot;&quot;, -1);
 }
-</script>
